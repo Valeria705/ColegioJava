@@ -1,0 +1,5 @@
+
+.tabla-datos tr:hover 
+{
+    background-color: red;
+}
